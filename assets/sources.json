@@ -1,0 +1,298 @@
+[
+  {
+    "file": "Zombie_body.png",
+    "repository": "https://github.com/jiangnangame/PVZ2PAK",
+    "source_path": "reanim/Zombie_body.png"
+  },
+  {
+    "file": "Zombie_bucket1.png",
+    "repository": "https://github.com/jiangnangame/PVZ2PAK",
+    "source_path": "reanim/Zombie_bucket1.png"
+  },
+  {
+    "file": "Zombie_cone1.png",
+    "repository": "https://github.com/jiangnangame/PVZ2PAK",
+    "source_path": "reanim/Zombie_cone1.png"
+  },
+  {
+    "file": "Zombie_head.png",
+    "repository": "https://github.com/jiangnangame/PVZ2PAK",
+    "source_path": "reanim/Zombie_head.png"
+  },
+  {
+    "file": "Zombie_innerleg_foot.png",
+    "repository": "https://github.com/jiangnangame/PVZ2PAK",
+    "source_path": "reanim/Zombie_innerleg_foot.png"
+  },
+  {
+    "file": "Zombie_innerleg_lower.png",
+    "repository": "https://github.com/jiangnangame/PVZ2PAK",
+    "source_path": "reanim/Zombie_innerleg_lower.png"
+  },
+  {
+    "file": "Zombie_innerleg_upper.png",
+    "repository": "https://github.com/jiangnangame/PVZ2PAK",
+    "source_path": "reanim/Zombie_innerleg_upper.png"
+  },
+  {
+    "file": "Zombie_outerarm_hand.png",
+    "repository": "https://github.com/jiangnangame/PVZ2PAK",
+    "source_path": "reanim/Zombie_outerarm_hand.png"
+  },
+  {
+    "file": "Zombie_outerarm_lower.png",
+    "repository": "https://github.com/jiangnangame/PVZ2PAK",
+    "source_path": "reanim/Zombie_outerarm_lower.png"
+  },
+  {
+    "file": "Zombie_outerarm_upper.png",
+    "repository": "https://github.com/jiangnangame/PVZ2PAK",
+    "source_path": "reanim/Zombie_outerarm_upper.png"
+  },
+  {
+    "file": "Zombie_outerleg_foot.png",
+    "repository": "https://github.com/jiangnangame/PVZ2PAK",
+    "source_path": "reanim/Zombie_outerleg_foot.png"
+  },
+  {
+    "file": "Zombie_outerleg_lower.png",
+    "repository": "https://github.com/jiangnangame/PVZ2PAK",
+    "source_path": "reanim/Zombie_outerleg_lower.png"
+  },
+  {
+    "file": "Zombie_outerleg_upper.png",
+    "repository": "https://github.com/jiangnangame/PVZ2PAK",
+    "source_path": "reanim/Zombie_outerleg_upper.png"
+  },
+  {
+    "file": "frontyard.webp",
+    "repository": "https://github.com/Gzh0821/pvzg_site",
+    "source_path": "src/.vuepress/public/assets/image/almanac/backgrounds/frontyard.webp"
+  },
+  {
+    "file": "egypt.webp",
+    "repository": "https://github.com/Gzh0821/pvzg_site",
+    "source_path": "src/.vuepress/public/assets/image/almanac/backgrounds/egypt.webp"
+  },
+  {
+    "file": "pirate.webp",
+    "repository": "https://github.com/Gzh0821/pvzg_site",
+    "source_path": "src/.vuepress/public/assets/image/almanac/backgrounds/pirate.webp"
+  },
+  {
+    "file": "pea-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/PeashooterPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "sunflower-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/SunflowerPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "wallnut-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/WallnutPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "snow-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/SnowPeaPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "repeater-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/RepeaterPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "tallnut-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/TallnutPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "torch-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/TorchwoodPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "cherry-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/CherryBombPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "chomper-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/ChomperPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "magnet-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/MagnetShroomPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "hypno-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/HypnoShroomPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "moon-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/MoonflowerPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "cabbage-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/CabbagePultPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "bonk-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/BonkChoyPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "dragon-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/SnapDragonPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "melon-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/MelonPultPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "kernel-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/KernelPultPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "wintermelon-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/WinterMelonPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "bloom-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/BloomerangPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "threepeater-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/ThreePeaterPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "firepea-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/FirePeashooterPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "laser-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/LaserBeanPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "citron-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/CitronPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "coconut-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/CoconutCannonPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "lightning-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/LightningReedPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "starfruit-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/StarFruitPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "spike-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/SpikeweedPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "primalpea-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/PrimalPeaPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "infinut-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/InfiNutPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "twin-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/SunflowerTwinPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "aloe-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/AloePLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "pepper-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/JalapenoPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "potato-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/PotatoMinePLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "primalnut-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/PrimalWallnutPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "fume-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/FumeShroomPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  },
+  {
+    "file": "electricpea-body.png",
+    "repository": "https://github.com/Gzh0821/pvzge_web",
+    "source_path": "plants/ElectricPeashooterPLANT",
+    "note": "Portrait rendered from the native idle animation; atlas source recorded in assets/animations/sources.json"
+  }
+]

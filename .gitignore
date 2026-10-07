@@ -1,0 +1,13 @@
+node_modules/
+dist/
+research/
+*.zip
+*预览*.jpg
+*预览*.png
+.DS_Store
+Thumbs.db
+*.log
+tools/*
+!tools/build.cjs
+tests.cjs
+

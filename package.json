@@ -1,0 +1,7 @@
+{
+  "name": "pvz-allstars-home",
+  "version": "2.0.0",
+  "private": true,
+  "description": "本地单机的植物大战僵尸全明星玩法复刻",
+  "scripts": { "start": "node server.cjs", "test": "node progress-tests.cjs", "build": "node tools/build.cjs" }
+}

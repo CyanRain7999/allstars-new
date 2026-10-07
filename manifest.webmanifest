@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "植物大战僵尸 · 全明星归来",
+  "short_name": "全明星归来",
+  "description": "九大世界、植物召唤与三路战斗。可离线游玩的全明星同人复刻。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#c8db94",
+  "theme_color": "#477c38",
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

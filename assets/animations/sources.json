@@ -1,0 +1,218 @@
+{
+  "pea": {
+    "plant": "Peashooter",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/70/70911506-154e-43ab-8809-bbbcd09c1dd4.png",
+    "prefab": "plants/PeashooterPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "sunflower": {
+    "plant": "Sunflower",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/61/618695df-2a0b-4247-b54e-c2c8051a2331.png",
+    "prefab": "plants/SunflowerPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "wallnut": {
+    "plant": "Wallnut",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/3d/3dae2989-a1db-4f3b-a1b9-ba2c08e7c199.png",
+    "prefab": "plants/WallnutPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "snow": {
+    "plant": "SnowPea",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/33/33cd1bbd-f39a-4f4e-867f-d1b5167e1225.png",
+    "prefab": "plants/SnowPeaPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "repeater": {
+    "plant": "Repeater",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/54/54865643-414d-4d03-aa01-c5169002c23a.png",
+    "prefab": "plants/RepeaterPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "tallnut": {
+    "plant": "Tallnut",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/dc/dcc8d8be-cf3f-4ad5-b49f-8e6dc466c5a3.png",
+    "prefab": "plants/TallnutPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "torch": {
+    "plant": "Torchwood",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/87/87a580c3-f3bc-4f64-9406-8682c74838e6.png",
+    "prefab": "plants/TorchwoodPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "cherry": {
+    "plant": "CherryBomb",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/21/21d800b7-b2d6-4171-ab77-024df6569482.png",
+    "prefab": "plants/CherryBombPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "chomper": {
+    "plant": "Chomper",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/9d/9d8a1124-5c30-471a-9bc0-18434f86e9ad.png",
+    "prefab": "plants/ChomperPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "magnet": {
+    "plant": "MagnetShroom",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/8c/8c282b0a-a55e-49cb-93c8-60122117d1aa.png",
+    "prefab": "plants/MagnetShroomPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "hypno": {
+    "plant": "HypnoShroom",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/cb/cb89d51b-9c0d-4ff3-9c88-52c4a44973db.png",
+    "prefab": "plants/HypnoShroomPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "moon": {
+    "plant": "Moonflower",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/4d/4d5ac56c-f776-4e78-9352-5cfc81f04fe2.png",
+    "prefab": "plants/MoonflowerPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "cabbage": {
+    "plant": "CabbagePult",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/3e/3e5426d9-8379-409a-ad5d-a6b78d2a858b.png",
+    "prefab": "plants/CabbagePultPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "bonk": {
+    "plant": "BonkChoy",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/0c/0cdd05b8-8e40-4413-ae0e-84726b282d90.png",
+    "prefab": "plants/BonkChoyPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "dragon": {
+    "plant": "SnapDragon",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/e6/e6963ac3-5791-49c4-b914-175ea3becee1.png",
+    "prefab": "plants/SnapDragonPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "melon": {
+    "plant": "MelonPult",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/0d/0d335b9b-dce0-43f5-a432-b6658db34128.png",
+    "prefab": "plants/MelonPultPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "kernel": {
+    "plant": "KernelPult",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/32/32d9d223-b234-4e78-bcc8-e6e2954fedee.png",
+    "prefab": "plants/KernelPultPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "wintermelon": {
+    "plant": "WinterMelon",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/0a/0aa81bf0-d6df-4b86-81de-5146bef0c3a6.png",
+    "prefab": "plants/WinterMelonPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "bloom": {
+    "plant": "Bloomerang",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/b8/b8c310eb-63ef-448d-9b1b-56078e1941a9.png",
+    "prefab": "plants/BloomerangPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "threepeater": {
+    "plant": "ThreePeater",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/0c/0cbf43c9-6e8c-4e35-bd71-64355f03f2af.png",
+    "prefab": "plants/ThreePeaterPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "firepea": {
+    "plant": "FirePeashooter",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/11/11a258ad-3334-4ec6-acf7-c0f25803cf33.png",
+    "prefab": "plants/FirePeashooterPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "laser": {
+    "plant": "LaserBean",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/c1/c1d76b53-f5cc-4940-bc28-17bf78409560.png",
+    "prefab": "plants/LaserBeanPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "citron": {
+    "plant": "Citron",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/a5/a52328a2-d708-4f6d-8eff-d5fe2afd3395.png",
+    "prefab": "plants/CitronPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "coconut": {
+    "plant": "CoconutCannon",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/12/12f844c2-bcd4-475c-9321-e503207a9bee.png",
+    "prefab": "plants/CoconutCannonPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "lightning": {
+    "plant": "LightningReed",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/36/36adebac-c788-49c7-8e30-c1de7811310f.png",
+    "prefab": "plants/LightningReedPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "starfruit": {
+    "plant": "StarFruit",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/69/696a4596-21fe-41ae-b89f-62002ff1c0b7.png",
+    "prefab": "plants/StarFruitPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "spike": {
+    "plant": "Spikeweed",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/38/385a0229-4406-4c9c-90b2-bdca0f8cf88f.png",
+    "prefab": "plants/SpikeweedPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "primalpea": {
+    "plant": "PrimalPea",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/d0/d089fd3e-7a64-45dd-983a-776061e1afe1.png",
+    "prefab": "plants/PrimalPeaPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "infinut": {
+    "plant": "InfiNut",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/50/5023fc57-aefa-42f4-9117-511e0e026d28.png",
+    "prefab": "plants/InfiNutPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "twin": {
+    "plant": "SunflowerTwin",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/04/04ae2325-2fad-4d6a-9c34-373bfde2161c.png",
+    "prefab": "plants/SunflowerTwinPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "aloe": {
+    "plant": "Aloe",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/0b/0b53a945-0192-4b8d-a27f-33a3d4db6c77.png",
+    "prefab": "plants/AloePLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "pepper": {
+    "plant": "Jalapeno",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/d7/d707b40f-f211-4eec-9a10-50973092b873.png",
+    "prefab": "plants/JalapenoPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "potato": {
+    "plant": "PotatoMine",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/a2/a2b7fa28-e8bf-4cae-ac22-54a015693597.png",
+    "prefab": "plants/PotatoMinePLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "primalnut": {
+    "plant": "PrimalWallnut",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/5f/5f9f2193-103b-4847-af09-bde7462f52fa.png",
+    "prefab": "plants/PrimalWallnutPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "fume": {
+    "plant": "FumeShroom",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/ed/ed76226f-bd3a-44d3-adb5-81bd0b72d39a.png",
+    "prefab": "plants/FumeShroomPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  },
+  "electricpea": {
+    "plant": "ElectricPeashooter",
+    "texture": "https://raw.githubusercontent.com/Gzh0821/pvzge_web/master/docs/assets/resources/native/60/60dd66c2-f700-4c3f-b469-06a4ffa97a6c.png",
+    "prefab": "plants/ElectricPeashooterPLANT",
+    "repository": "https://github.com/Gzh0821/pvzge_web"
+  }
+}
